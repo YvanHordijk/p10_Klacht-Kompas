@@ -9,7 +9,7 @@
 
 <h2>Report Issue Form</h2>
 
-<form action="process_form.php" method="post" enctype="multipart/form-data">
+<form action="processForm.php" method="post" enctype="multipart/form-data">
     <label for="title">Title:</label>
     <input type="text" id="title" name="title" required><br>
 
